@@ -23,4 +23,4 @@ Go to http://localhost:3000/availabilities to view available slots <br>
 Go to http://localhost:3000/availabilities/create to create a new availability 😉
 
 # Github Link
-https://github.com/Rachico/giskard-calendar
+https://github.com/Rachico/calendar-app
