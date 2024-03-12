@@ -7,7 +7,7 @@ Install Docker (based on your OS)
 # How To Run the project with Docker
 1. Go to project root directory.
 2. Open a terminal.
-3. Run the commands below 👇
+3. Run the commands below
 
     * $ docker-compose build <br>
     * $ docker-compose up
@@ -16,11 +16,11 @@ Install Docker (based on your OS)
 http://localhost:3000 🔗
 
 # Done
-You can now view the project 🥳
+You can now view the project
 
 # Tips
 Go to http://localhost:3000/availabilities to view available slots <br>
-Go to http://localhost:3000/availabilities/create to create a new availability 😉
+Go to http://localhost:3000/availabilities/create to create a new availability
 
 # Github Link
 https://github.com/Rachico/calendar-app
