@@ -1,5 +1,5 @@
-# Project Description
-This calendar app 📅 gives you the ability to publish your availabilities and give other people the possibility to schedule a meeting with you 🤝🏿 by picking a time slot, making a reservation and receiving a meeting invite by email 📧
+# Project Description 📅
+This calendar app gives you the ability to publish your availabilities and give other people the possibility to schedule a meeting with you by picking a time slot, making a reservation and receiving a meeting invite by email.
 
 # Requirements
 Install Docker (based on your OS)
